@@ -1,0 +1,10 @@
+body{
+  font-family: Arial;
+  background-color: #f4f4f4;
+  padding:30px;
+  color: #333;
+  background-image: url('./img/los-angeles-downtown-buildings-night_649448-298.avif');
+  background-position: center;
+  background-size: cover;
+}
+
