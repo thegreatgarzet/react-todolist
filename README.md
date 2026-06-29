@@ -2,6 +2,9 @@
 
 Lista de tarefas com login e registro feita com React.js, Vite, React Router DOM e CSS puro.
 
+## Demo 
+[Acesse o projeto aqui](https://react-todolist-seven-theta.vercel.app)
+
 ## Funcionalidades
 - Login e Registro com validação
 - CRUD e alteração do status de "completo" das tarefas
